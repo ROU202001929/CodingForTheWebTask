@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #5bce2e;
+}
+
+h1 {
+	padding-left: 60px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+	display: inline;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+img {
+	padding: 20px;
+}
+
+p {
+	color: white;
+}
+
+figcaption {
+	color: white;
+	padding-left: 5pc;
+	font-size: 25px;
+}
+
